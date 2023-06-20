@@ -7,10 +7,10 @@ class Connect{
 
 public function __construct()
 {
-    $this->server = "efdjbe";
-    $this->user = "root";
-    $this->password = "sdcsjb";
-    $this->dbName = "qt_store_thinh";
+    $this->server = "pfw0ltdr46khxib3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+    $this->user = "r0otfi5axpg47hc9";
+    $this->password = "jaduog30zmgwgtze";
+    $this->dbName = "po8zgwlxtoti9j94";
 }
 //option1 : use mysqli
 function connectToMySQl():mysqli{
