@@ -7,9 +7,9 @@ class Connect{
 
 public function __construct()
 {
-    $this->server = "sajhvasjh";
+    $this->server = "efdjbe";
     $this->user = "root";
-    $this->password = "";
+    $this->password = "sdcsjb";
     $this->dbName = "qt_store_thinh";
 }
 //option1 : use mysqli
