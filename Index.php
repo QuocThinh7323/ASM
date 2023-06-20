@@ -41,7 +41,7 @@
 
         <div class="col-md-4 pb-3">
             <div class="card">
-                <img src="../simpleweb/image/<?=$row['image']?>" class="card-img-top" alt="Product1>" style="margin: auto;
+                <img src="./image/<?=$row['image']?>" class="card-img-top" alt="Product1>" style="margin: auto;
                         width: 300px;" />
                 <div class="card-body">
                     <a href="detail.php?id=<?=$row['pid']?>" class="text-decoration-none">
